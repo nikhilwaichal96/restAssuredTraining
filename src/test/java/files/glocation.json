@@ -1,0 +1,17 @@
+{
+    "location": {
+      "lat": -38.383494,
+      "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Kamdhenu",
+    "phone_number": "(+91) 123411038",
+    "address": "Pune",
+    "types": [
+      "House",
+      "shop"
+    ],
+    "website": "http://google.com",
+    "language": "Marathi"
+  }
+  
